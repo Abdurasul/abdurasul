@@ -1,0 +1,47 @@
+
+.span1 {width: 60px;}
+.span2 {width: 120px;}
+.span3 {width: 180px;}
+.span4 {width: 240px;}
+.span5 {width: 300px;}
+.span6 {width: 360px;}
+.span7 {width: 420px;}
+.span8 {width: 480px;}
+.span9 {width: 540px;}
+.span10 {width: 600px;}
+.span11{width: 660px;}
+.span12{width: 720px;}
+.span13{width: 780px;}
+.span14{width: 840px;}
+.span15{width: 900px;}
+.span16{width: 960px;}
+
+
+.offset1 {	margin-left: 60px;}
+.offset2 {	margin-left: 120px;}
+.offset3 {	margin-left: 180px;}
+.offset4 {	margin-left: 240px;}
+.offset5 {	margin-left: 300px;}
+.offset6 {	margin-left: 360px;}
+.offset7 {	margin-left: 420px;}
+.offset8 {	margin-left: 420px;}
+.offset9 {	margin-left: 540px;}
+.offset10 {	margin-left: 600px;}
+.offset11 {	margin-left: 660px;}
+.offset12 {	margin-left: 720px;}
+.offset13 {	margin-left: 780px;}
+.offset14 {	margin-left: 840px;}
+.offset15 {	margin-left: 900px;}
+.offset16 {	margin-left: 960px;}
+
+.border { border: 1px solid black;}
+.iBorder { border: 5px solid #fff;}
+.block { display: block; }
+.round { border-radius: 50%; }
+.relative { position: relative; }
+
+.sicks {
+	padding: 5px; 
+	padding-left: 10px; 
+	border: 1px solid rgba(0, 0, 0, .2);
+}
